@@ -1,0 +1,15 @@
+my-website/
+├─ index.html
+├─ package.json
+├─ src/
+│  ├─ main.jsx
+│  ├─ App.jsx
+│  ├─ components/
+│  │   ├─ Header.jsx
+│  │   ├─ Footer.jsx
+│  │   └─ Home.jsx
+│  ├─ pages/
+│  │   ├─ About.jsx
+│  │   └─ Contact.jsx
+│  └─ styles/
+│      └─ style.css
